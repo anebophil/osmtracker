@@ -3,7 +3,7 @@
       <row>
          <button type="tag" label="arrêt sans indication" icon="/bus_route_icons/Junglebus-01.png" />
          <button type="tag" label="poteau" icon="/bus_route_icons/Junglebus-02.png" />
-         <button type="tag" label="abribus" icon="/bus_route_icons/Junglebus-03.png" />
+         <button type="tag" label="abribus" icon="/bus_route_icons/Junglebus-10.png" />
       </row>
       <row></row>
       <row></row>

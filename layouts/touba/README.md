@@ -1,5 +1,4 @@
-# Bus route
+# Touba
 
 This layout is for the tracks of  routes
 
-#![Image of layout](layout.png)

@@ -6,8 +6,10 @@
          <button type="tag" label="route latéritique " icon="icons/Touba-04.png"/>
       </row>
       <row></row>
+	    <row>
 	  <button type="tag" label="Ralentisseur" icon="icons/Touba-01.png"/>
-         <button type="tag" label="Pas d'internet(réseau)" icon="icons/Touba-06.png" />
+        <button type="tag" label="Pas d'internet(réseau)" icon="icons/Touba-06.png" />
+		</row>
 	  <row></row>
 	   <row>
          <button type="tag" label="Présence de FDS" icon="Touba-02.png"/>

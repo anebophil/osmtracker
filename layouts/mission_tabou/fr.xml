@@ -1,13 +1,16 @@
 <layouts>
    <layout name="root">
       <row>
-         <button type="tag" label="route latéritique " icon="icons/Route-lateritique.png"/>
-         <button type="tag" label="route en bon état" icon="icons/Bon-etat.png" />
-         <button type="tag" label="route en mauvais état" icon="icons/Mauvais-etat.png"/>
+	      <button type="tag" label="route en bon état" icon="icons/Touba-03.png" />
+         <button type="tag" label="route en mauvais état" icon="icons/Touba-05.png"/>
+         <button type="tag" label="route latéritique " icon="icons/Touba-04.png"/>
       </row>
       <row></row>
+	  <button type="tag" label="Ralentisseur" icon="icons/Touba-01.png"/>
+         <button type="tag" label="Pas d'internet(réseau)" icon="icons/Touba-06.png" />
+	  <row></row>
 	   <row>
-         <button type="tag" label="présence de FDS" icon="icons/Securite.png"/>
+         <button type="tag" label="Présence de FDS" icon="Touba-02.png"/>
       </row>
       <row></row>
       <row>

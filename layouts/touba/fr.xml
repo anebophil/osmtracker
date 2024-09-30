@@ -1,0 +1,26 @@
+<layouts>
+   <layout name="root">
+      <row>
+	      <button type="tag" label="route en bon état" icon="/touba_icons/Touba-03.png" />
+         <button type="tag" label="route en mauvais état" icon="/touba_icons/Touba-05.png" />
+         <button type="tag" label="route latéritique " icon="/touba_icons/Touba-04.png" />
+      </row>
+      <row></row>
+	    <row>
+	  <button type="tag" label="Ralentisseur" icon="/touba_icons/Touba-01.png"/>
+       <button type="tag" label="Pas d'internet(réseau)" icon="/touba_icons/Touba-06.png" />
+		</row>
+	  <row></row>
+	  <row>
+         <button type="tag" label="Présence de FDS" icon="/touba_icons/Touba-02.png" />
+      </row>
+      <row></row>
+      <row>
+         <button type="textnote" label="Text note" icon="text.png" />
+		 <button type="picture" label="Photo" icon="logo_camera" />
+      </row>
+      <row></row>
+      <row></row>
+
+   </layout>
+</layouts>

@@ -1,13 +1,13 @@
 <layouts>
    <layout name="root">
       <row>
-         <button type="tag" label="route latéritique " icon="/icons/Route-lateritique.png"/>
-         <button type="tag" label="route en bon état" icon="/icons/Bon-etat.png" />
-         <button type="tag" label="route en mauvais état" icon="/icons/Mauvais-etat.png"/>
+         <button type="tag" label="route latéritique " icon="icons/Route-lateritique.png"/>
+         <button type="tag" label="route en bon état" icon="icons/Bon-etat.png" />
+         <button type="tag" label="route en mauvais état" icon="icons/Mauvais-etat.png"/>
       </row>
       <row></row>
 	   <row>
-         <button type="tag" label="présence de FDS" icon="/icons/Securite.png"/>
+         <button type="tag" label="présence de FDS" icon="icons/Securite.png"/>
       </row>
       <row></row>
       <row>

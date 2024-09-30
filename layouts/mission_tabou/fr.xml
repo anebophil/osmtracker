@@ -1,7 +1,7 @@
 <layouts>
    <layout name="root">
       <row>
-	      <button type="tag" label="route en bon état" icon="/icons/Touba-03.png" />
+	      <button type="tag" label="route en bon état" icon="/icons/Touba-3.png" />
          <button type="tag" label="route en mauvais état" icon="/icons/Touba-05.png"/>
          <button type="tag" label="route latéritique " icon="/icons/Touba-04.png"/>
       </row>

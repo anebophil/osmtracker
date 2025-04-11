@@ -1,0 +1,26 @@
+<layouts>
+   <layout name="root">
+      <row>
+	      <button type="tag" label="route en bon état" />
+         <button type="tag" label="route en mauvais état"  />
+         <button type="tag" label="route latéritique "  />
+      </row>
+      <row></row>
+	    <row>
+	  <button type="tag" label="Ralentisseur"/>
+       <button type="tag" label="Pas d'internet(réseau)" />
+		</row>
+	  <row></row>
+	  <row>
+         <button type="tag" label="Présence de FDS" />
+      </row>
+      <row></row>
+      <row>
+         <button type="textnote" label="Text note" icon="text.png" />
+		 <button type="picture" label="Photo" icon="logo_camera" />
+      </row>
+      <row></row>
+      <row></row>
+
+   </layout>
+</layouts>

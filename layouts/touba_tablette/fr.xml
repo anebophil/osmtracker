@@ -15,6 +15,11 @@
          <button type="tag" label="Présence de FDS" />
       </row>
       <row></row>
+	  <row></row>
+	  <row>
+         <button type="tag" label="Station service" />
+      </row>
+      <row></row>
       <row>
          <button type="textnote" label="Text note" icon="text.png" />
 		 <button type="picture" label="Photo" icon="logo_camera" />
